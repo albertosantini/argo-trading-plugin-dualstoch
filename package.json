@@ -1,0 +1,37 @@
+{
+    "name": "argo-trading-plugin-dualstoch",
+    "description": "argo-trading plugin",
+    "version": "1.0.0",
+    "main": "lib/main.js",
+    "bin": {
+        "argo-trading-plugin-dualstoch": "./bin/argo-trading-plugin-dualstoch"
+    },
+    "preferGlobal": true,
+    "repository": "git@github.com:albertosantini/argo-trading-plugin-dualstoch.git",
+    "keywords": [
+        "argo plugin",
+        "trading",
+        "forex",
+        "fxtrade",
+        "oanda"
+    ],
+    "author": "Alberto Santini",
+    "license": "MIT",
+    "engines": {
+        "node": ">=4"
+    },
+    "dependencies": {
+        "flic": "~1.1.2",
+        "request": "~2.69.0"
+    },
+    "scripts": {
+        "start": "node lib/main.js",
+        "test": "npm run lint",
+        "lint": "eslint bin/argo-trading-plugin-dualstoch lib/**/*.js"
+
+    },
+    "devDependencies": {
+        "eslint": "~2.0.0-beta.3",
+        "eslint-config-eslint": "~2.0.0"
+    }
+}
