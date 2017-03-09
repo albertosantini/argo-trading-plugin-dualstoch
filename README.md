@@ -1,7 +1,6 @@
 # ARGO-TRADING PLUGIN DUAL STOCH
 
 [![NPM version](https://badge.fury.io/js/argo-trading-plugin-dualstoch.png)](http://badge.fury.io/js/argo-trading-plugin-dualstoch)
-[![NGN Dependencies](https://david-dm.org/albertosantini/argo-trading-plugin-dualstoch.png)](https://david-dm.org/albertosantini/argo-trading-plugin-dualstoch)
 [![Build Status](https://travis-ci.org/albertosantini/argo-trading-plugin-dualstoch.png)](https://travis-ci.org/albertosantini/argo-trading-plugin-dualstoch)
 
 `argo-tradin-plugin-dualstoch` is a plugin for [Argo][], the open source trading
