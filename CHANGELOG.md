@@ -1,3 +1,14 @@
+<a name="2.0.2"></a>
+## [2.0.2](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v2.0.1...v2.0.2) (2017-03-10)
+
+
+### Bug Fixes
+
+* **ema:** fix close value in ema([782e19b](https://github.com/albertosantini/argo-trading-plugin-dualstoch/commit/782e19b))
+* **onbar:** fix lastClose value([007c3cc](https://github.com/albertosantini/argo-trading-plugin-dualstoch/commit/007c3cc))
+
+
+
 <a name="2.0.1"></a>
 ## [2.0.1](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v2.0.0...v2.0.1) (2017-03-10)
 
