@@ -1,3 +1,14 @@
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v2.0.0...v2.0.1) (2017-03-10)
+
+
+### Bug Fixes
+
+* **bars:** fix middle price([3b49de1](https://github.com/albertosantini/argo-trading-plugin-dualstoch/commit/3b49de1))
+* **onbar:** fix fillOrder call([2404dae](https://github.com/albertosantini/argo-trading-plugin-dualstoch/commit/2404dae))
+
+
+
 <a name="2.0.0"></a>
 # [2.0.0](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v1.2.0...v2.0.0) (2017-03-09)
 
