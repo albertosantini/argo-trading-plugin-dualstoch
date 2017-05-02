@@ -1,3 +1,13 @@
+<a name="2.0.3"></a>
+## [2.0.3](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v2.0.2...v2.0.3) (2017-05-02)
+
+
+### Bug Fixes
+
+* **bars:** remove alignmentTimezone ([4e7537b](https://github.com/albertosantini/argo-trading-plugin-dualstoch/commit/4e7537b))
+
+
+
 <a name="2.0.2"></a>
 ## [2.0.2](https://github.com/albertosantini/argo-trading-plugin-dualstoch/compare/v2.0.1...v2.0.2) (2017-03-10)
 
