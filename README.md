@@ -1,7 +1,7 @@
 # ARGO-TRADING PLUGIN DUAL STOCH
 
 [![NPM version](https://badge.fury.io/js/argo-trading-plugin-dualstoch.svg)](http://badge.fury.io/js/argo-trading-plugin-dualstoch)
-![](https://github.com/albertosantini/argo-trding-plugin-dualstoch/workflows/CI/badge.svg)
+![](https://github.com/albertosantini/argo-trading-plugin-dualstoch/workflows/CI/badge.svg)
 
 `argo-tradin-plugin-dualstoch` is a plugin for [Argo][], the open source trading
 platform, connecting directly with [OANDA][] through the powerful [API][].
